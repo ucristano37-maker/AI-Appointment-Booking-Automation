@@ -1,0 +1,1 @@
+{"services":[{"name":"Consultation","duration_minutes":30},{"name":"Demo Call","duration_minutes":30},{"name":"Support Session","duration_minutes":45},{"name":"Discovery Call","duration_minutes":30}],"status_options":["requested","pending","confirmed","cancelled"]}
